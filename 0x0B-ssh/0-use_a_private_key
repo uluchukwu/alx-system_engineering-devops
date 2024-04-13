@@ -4,4 +4,4 @@
 ssh -i ~/.ssh/school ubuntu@52.72.12.225
 
 
-ssh -i ~/.ssh/may ubuntu@54.162.228.184
+ssh -i ~/.ssh/may ubuntu@54.90.46.166
